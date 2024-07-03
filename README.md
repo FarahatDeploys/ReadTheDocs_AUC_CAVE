@@ -17,7 +17,7 @@ To view the documentation, visit [Read the Docs link](https://readthedocs.org/pr
 - Sphinx
 - Read the Docs theme
 
-### update the Manual
+### To Contribute
 Clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/FarahatDeploys/ReadTheDocs_AUC_CAVE.git
