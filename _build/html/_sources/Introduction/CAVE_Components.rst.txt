@@ -14,10 +14,16 @@ Tracking system
 .. figure:: Images/Real_Time_Controller.png
    :align: center
 
-   From left to right and up to down: precesion tracking cameras,Advanced real time controller,Markers and Flying Stick.
+   From left to right and up to down: precesion tracking cameras, Advanced real time controller, Markers and Flying Stick.
 
 Projection system
-    the projection system projects the rendered graphics, could be made out of set of projectors or set of displays, in the case of AUC Cave, we are using 
+    the projection system projects the rendered graphics, it could be made out of set of projectors or set of displays, in the case of AUC Cave, we are using 4 projectors each projectors
+    project over one side of the CAVE Cube.
+
+.. figure:: Images/CAVE_Nodes.png
+   :align: center
+
+   AUC Cave Nodes.
 
 Rendering system 
     responsible for carrying graphics calculation and handling the graphics pipeline usually made of Powerful workstation with high end graphics card.
