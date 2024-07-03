@@ -23,6 +23,4 @@ Indices and tables
    :caption: Contents:
 
    Introduction/Introduction_to_CAVE
-   Introduction/CAVE_Philo
-   Introduction/CAVE_Components
 

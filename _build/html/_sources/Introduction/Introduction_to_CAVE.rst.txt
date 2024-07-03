@@ -11,3 +11,10 @@ Plato's Allegory of the Cave is a philosophical metaphor presented in his work "
 
 The CAVE VR (Cave Automatic Virtual Environment) system is a modern immersive virtual reality environment. It involves users standing inside a cube-like space where images are projected onto the walls, floor, and ceiling, creating a 3D immersive experience. Users often wear special glasses to enhance the 3D effect and interact with the virtual environment.
 
+.. toctree::
+   :maxdepth: 4
+   :caption: Contents:
+
+   CAVE_Philo
+   CAVE_Components
+   CAVE_Application

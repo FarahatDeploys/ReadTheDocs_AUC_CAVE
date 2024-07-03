@@ -21,6 +21,7 @@
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="CAVE Applications" href="CAVE_Application.html" />
     <link rel="prev" title="CAVE Philosophy" href="CAVE_Philo.html" /> 
 </head>
 
@@ -45,9 +46,12 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="Introduction_to_CAVE.html">Introduction to CAVE (VR) System</a></li>
-<li class="toctree-l1"><a class="reference internal" href="CAVE_Philo.html">CAVE Philosophy</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">CAVE Components</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="Introduction_to_CAVE.html">Introduction to CAVE (VR) System</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="CAVE_Philo.html">CAVE Philosophy</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">CAVE Components</a></li>
+<li class="toctree-l2"><a class="reference internal" href="CAVE_Application.html">CAVE Applications</a></li>
+</ul>
+</li>
 </ul>
 
         </div>
@@ -64,6 +68,7 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="Introduction_to_CAVE.html">Introduction to CAVE (VR) System</a></li>
       <li class="breadcrumb-item active">CAVE Components</li>
       <li class="wy-breadcrumbs-aside">
             <a href="../_sources/Introduction/CAVE_Components.rst.txt" rel="nofollow"> View page source</a>
@@ -76,10 +81,32 @@
              
   <section id="cave-components">
 <h1>CAVE Components<a class="headerlink" href="#cave-components" title="Link to this heading"></a></h1>
-<p>cave can be described as integration of different subsystems
-- tracking system → responsible for tracking your movement inside the CAVE, Advanced Real Time systems supplied AUC with the tracking system
-- projection system → projects the rendered graphics, could be made out of set of projectors or set of displays
-- rendering system → responsible for carrying graphics calculation and handling the graphics pipeline usually made of Powerful workstation with high end graphics card.</p>
+<p>cave can be described as integration of different subsystems</p>
+<dl>
+<dt>Tracking system</dt><dd><p>Tracking system is responsible for tracking your movement inside the CAVE, Advanced Real Time (ART) systems supplied AUC with the tracking system.
+The tracking system is composed of :</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>4x high precesion tracking cameras</p></li>
+<li><p>Advanced real time controller</p></li>
+<li><p>Markers</p></li>
+<li><p>Flying Stick</p></li>
+</ul>
+</div></blockquote>
+</dd>
+</dl>
+<figure class="align-center" id="id1">
+<img alt="../_images/Real_Time_Controller.png" src="../_images/Real_Time_Controller.png" />
+<figcaption>
+<p><span class="caption-text">From left to right and up to down: precesion tracking cameras,Advanced real time controller,Markers and Flying Stick.</span><a class="headerlink" href="#id1" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<dl class="simple">
+<dt>Projection system</dt><dd><p>the projection system projects the rendered graphics, could be made out of set of projectors or set of displays, in the case of AUC Cave, we are using</p>
+</dd>
+<dt>Rendering system</dt><dd><p>responsible for carrying graphics calculation and handling the graphics pipeline usually made of Powerful workstation with high end graphics card.</p>
+</dd>
+</dl>
 <p>Each one of those systems can work independently for example :
 <strong>you can run the projection system and rendering without tracking system, of course this won’t allow you to update the viewpoint or interact using the flystick.</strong>
 <strong>you can run Tracking System with any Computer</strong>
@@ -91,6 +118,7 @@
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
         <a href="CAVE_Philo.html" class="btn btn-neutral float-left" title="CAVE Philosophy" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="CAVE_Application.html" class="btn btn-neutral float-right" title="CAVE Applications" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
