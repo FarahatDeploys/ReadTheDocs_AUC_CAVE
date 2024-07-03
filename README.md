@@ -12,12 +12,13 @@ This repository contains the complete documentation for the AUC CAVE integration
 ## Getting Started
 To view the documentation, visit [Read the Docs link](https://readthedocs.org/projects/yourproject/).
 
-### Prerequisites
+
+### To Contribute
+#### Prerequisites
 - Python 3.x
 - Sphinx
 - Read the Docs theme
 
-### To Contribute
 Clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/FarahatDeploys/ReadTheDocs_AUC_CAVE.git
