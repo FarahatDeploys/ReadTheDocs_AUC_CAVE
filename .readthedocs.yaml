@@ -5,6 +5,9 @@ build:
   tools:
     python: "3.8"
 
-jobs:
-  pre_build:
+sphinx:
+  configuration: conf.py
+
+build:
+  commands:
     - sphinx-build -b html . $READTHEDOCS_OUTPUT/html
