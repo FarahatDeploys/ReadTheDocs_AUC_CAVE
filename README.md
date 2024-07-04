@@ -13,6 +13,9 @@ This repository contains the complete documentation for the AUC CAVE integration
 To view the documentation, visit [Read the Docs link](https://auc-cave.readthedocs.io/en/latest/). or go to the quick start guide [Notion Guide](https://nervous-land-34f.notion.site/AUC-CAVE-Ultimate-Guide-a49bc6f61d1d4d06905f2bf3d72abdd6) 
 
 
+## nDisplay Configuration
+if you are looking for the ndisplay configuration you can download it directly from [Here](https://drive.google.com/file/d/1OnPVzJp0mXBwLkSnhPVRVej27YUUSY5y/view?usp=sharing).
+
 ### To Contribute
 #### Prerequisites
 - Python 3.x
