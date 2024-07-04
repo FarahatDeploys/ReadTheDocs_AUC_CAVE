@@ -10,7 +10,7 @@ This repository contains the complete documentation for the AUC CAVE integration
 - FAQs and troubleshooting tips.
 
 ## Getting Started
-To view the documentation, visit [Read the Docs link](https://readthedocs.org/projects/yourproject/).
+To view the documentation, visit [Read the Docs link](https://auc-cave.readthedocs.io/en/latest/).
 
 
 ### To Contribute
