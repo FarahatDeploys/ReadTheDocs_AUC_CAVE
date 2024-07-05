@@ -1,4 +1,4 @@
-Philosophy of the CAVE
+3D Effect - Stereoscopy
 ===========================================
 
 Perception of Reality

@@ -1,5 +1,5 @@
 
-CAVE Components
+Components of CAVE
 ===========================================
 cave can be described as integration of different subsystems
 
