@@ -25,15 +25,15 @@ The CAVE VR (Cave Automatic Virtual Environment) system is a modern immersive vi
 
 CAVE at the AUC is composed of 4 walls each one of them is called a node. the virtual enviroment content is developed at the EVE lab and can be used 
 with different technologies such as (CAVE System, Mounted Headset or web content).
-....
+
 .. toctree::
    :maxdepth: 4
    :caption: Contents:
 
-CAVE_Philo
-CAVE_Application
-CAVE_Components
-3D_effect-Stereoscopy
-CAVE_Projection_System
-CAVE_Rendering_System
-CAVE_Tracking_System
+   CAVE_Philo
+   CAVE_Application
+   CAVE_Components
+   3D_effect-Stereoscopy
+   CAVE_Projection_System
+   CAVE_Rendering_System
+   CAVE_Tracking_System
