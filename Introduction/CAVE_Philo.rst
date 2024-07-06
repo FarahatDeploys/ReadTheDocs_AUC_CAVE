@@ -1,6 +1,7 @@
 Philosophy of the CAVE
 ===========================================
 
+
 Perception of Reality
   In CAVE VR, users are immersed in a virtual world, which, while vivid and interactive, is a digital simulation rather than the actual world.
 

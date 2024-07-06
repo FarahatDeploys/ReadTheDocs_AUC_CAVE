@@ -27,7 +27,7 @@ CAVE at the AUC is composed of 4 walls each one of them is called a node. the vi
 with different technologies such as (CAVE System, Mounted Headset or web content).
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 6
    :caption: Contents:
 
    CAVE_Philo
