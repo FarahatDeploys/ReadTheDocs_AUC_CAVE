@@ -6,6 +6,7 @@ cave can be described as integration of different subsystems
 Tracking system
     Tracking system is responsible for tracking your movement inside the CAVE, Advanced Real Time (ART) systems supplied AUC with the tracking system.
     The tracking system is composed of : 
+    
      - 4x high precesion tracking cameras
      - Advanced real time controller 
      - Markers
