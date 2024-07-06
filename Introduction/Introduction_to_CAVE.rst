@@ -30,10 +30,10 @@ with different technologies such as (CAVE System, Mounted Headset or web content
    :maxdepth: 4
    :caption: Contents:
 
-   CAVE_Philo
-   CAVE_Application
-   CAVE_Components
-   3D_effect-Stereoscopy
-   CAVE_Projection_System
-   CAVE_Rendering_System
-   CAVE_Tracking_System
+CAVE_Philo
+CAVE_Application
+CAVE_Components
+3D_effect-Stereoscopy
+CAVE_Projection_System
+CAVE_Rendering_System
+CAVE_Tracking_System
