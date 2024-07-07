@@ -30,7 +30,7 @@ CAVE is supported with tracking system supplied from **ART (Advanced Real Time T
          :alt: Photo 3
          
          Controller+ Radio Transceiver
-     - .. figure:: images/d.png
+     - .. figure:: Images/d.png
          :width: 200px
          :alt: Photo 4
          
