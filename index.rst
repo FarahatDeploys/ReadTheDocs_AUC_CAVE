@@ -19,8 +19,12 @@ Indices and tables
 * :ref:`search`
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 6
    :caption: Contents:
 
    Introduction/Introduction_to_CAVE
-
+   cave_hardware/hardware
+   CAVE_Unreal_Setup/unreal_setup
+   bug/cave_bug
+   screen/screen_warping
+   plug_and_play/Plug_and_Play_Projects
