@@ -72,21 +72,21 @@ If you look at the projected screen with & without 3D glass you will notice the 
 
   The following behaviour shows that if you look directly at the screen you will see the 2 words right and left overlapping each other
 
-.. figure:: Images/P6.png
-   :alt: Alternate text for the image
-   :width: 300px
-   :align: center
-.. raw:: html
+ .. figure:: Images/P6.png
+    :alt: Alternate text for the image
+    :width: 300px
+    :align: center
+ .. raw:: html
 
    <div style="margin-bottom: 30px;"></div> 
 
-However if you look through one lens at a time you will see only one word either left or right as shown below 
+ However if you look through one lens at a time you will see only one word either left or right as shown below 
 
-.. figure:: Images/P7.png
-   :alt: Alternate text for the image
-   :align: center
-.. raw:: html
+ .. figure:: Images/P7.png
+    :alt: Alternate text for the image
+    :align: center
+ .. raw:: html
 
    <div style="margin-bottom: 30px;"></div> 
    
-This happened because your glass are synchronized with the projector displays 
+ This happened because your glass are synchronized with the projector displays 

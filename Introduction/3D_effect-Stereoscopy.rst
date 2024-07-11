@@ -38,15 +38,15 @@ Introduction to 3D Effect
  - HTC vive Headset / or any other Head mounted display **(available at the LAB)**
  - Volfoni (manfacturer name, similar to samsung,HTC.. etc) glasses **(available at the LAB)**
   
-.. figure:: Images/e3.png
-   :alt: Alternate text for the image
-   :width: 400px
-   :align: center
-.. raw:: html
+ .. figure:: Images/e3.png
+    :alt: Alternate text for the image
+    :width: 400px
+    :align: center
+ .. raw:: html
 
    <div style="margin-bottom: 30px;"></div>  
 
-and of course there are other tools, however I am currently focused on tools we have inside the EVE lab up to the moment.
+  and of course there are other tools, however I am currently focused on tools we have inside the EVE lab up to the moment.
 
 
 Active 3D glasses
@@ -59,29 +59,29 @@ Active 3D glasses
 
  The glasses get a signal from a device called **ActiveHub (Volfoni device)**, this device takes the synchronization signal from the projectors and emits a radio frequency signal to the **Volfoni 3D Glasses.**
 
-.. figure:: Images/e4.png
+ .. figure:: Images/e4.png
    :alt: Alternate text for the image
    :width: 400px
    :align: center
-.. raw:: html
+ .. raw:: html
 
    <div style="margin-bottom: 30px;"></div> 
 
-To make sure that ActivHUB is sending the signals correctly, look at the rear projector you will find ActivHUB hanging over the projector, look at it’s LED and notice it’s **blinking behaviour** 
+ To make sure that ActivHUB is sending the signals correctly, look at the rear projector you will find ActivHUB hanging over the projector, look at it’s LED and notice it’s **blinking behaviour** 
 
-- ActiveHUB is on but not receiving any signals form projector blinking behaviour (very slow blink, one blink every 3 seconds) 
+ - ActiveHUB is on but not receiving any signals form projector blinking behaviour (very slow blink, one blink every 3 seconds) 
   
   .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/XdqsnL0Z9i4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XdqsnL0Z9i4" frameborder="0" allowfullscreen></iframe>
    
-- ActiveHUB is on and receiving singals from projector and is emitting it to the glasses (Very Quick Blink, 2 Blink every 2 seconds)
+ - ActiveHUB is on and receiving singals from projector and is emitting it to the glasses (Very Quick Blink, 2 Blink every 2 seconds)
 
-.. raw:: html
+ .. raw:: html
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/hYHwseX_LW8" frameborder="0" allowfullscreen></iframe>
 
-.. raw:: html
+ .. raw:: html
 
    <div style="margin-bottom: 30px;"></div> 
 
