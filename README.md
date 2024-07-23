@@ -16,6 +16,9 @@ To view the documentation, visit [Read the Docs link](https://auc-cave.readthedo
 ## nDisplay Configuration
 if you are looking for the ndisplay configuration you can download it directly from [Here](https://drive.google.com/file/d/1GzBs31KyC7fkr3t-GyUMzzxW3Ty80Tvl/view?usp=sharing).
 
+## Switchboard Configuraiton 
+to download switchboard configuration directly [Here](https://drive.google.com/file/d/1GzBs31KyC7fkr3t-GyUMzzxW3Ty80Tvl/view?usp=sharing)
+
 ### To Contribute
 #### Prerequisites
 - Python 3.x
