@@ -19,8 +19,7 @@ Indices and tables
 * :ref:`search`
 
 .. toctree::
-   :titlesonly:
-   :maxdepth: 12
+   :maxdepth: 6
    :caption: Contents:
 
    Introduction/Introduction_to_CAVE
@@ -29,6 +28,3 @@ Indices and tables
    bug/cave_bug
    screen/screen_warping
    plug_and_play/Plug_and_Play_Projects
-   Importing/importing_to_cave
-   LiveLink/liv
-   ifs/infs
